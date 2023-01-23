@@ -13,6 +13,7 @@ This is the story of how the recipe developer found this recipe!
 - 2 tbsp olive oil
 - 3 tbsp water
 - 200 gr ice cream
+- 200 ml milk
 
 # Steps
 
@@ -21,3 +22,4 @@ This is the story of how the recipe developer found this recipe!
 3. Mix until everything is mixed together well.
 4. Microwave for 1 minute 40 seconds.
 5. Add ice cream to the side.
+6. Add the milk.
